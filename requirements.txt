@@ -1,0 +1,5 @@
+numpy==1.23.4
+pyglet==1.5.27
+scipy==1.9.3
+Shapely==1.8.5.post1
+trimesh==3.15.8
